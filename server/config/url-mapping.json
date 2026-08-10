@@ -1,0 +1,5 @@
+{
+  "Development": "enterprise-dev.example.com",
+  "Staging": "enterprise-staging.example.com", 
+  "Production": "enterprise.example.com"
+}

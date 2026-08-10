@@ -1,0 +1,82 @@
+{
+    "GIS Tools Portal": {
+        "type": "url",
+        "description": "GIS Tools Portal",
+        "Production": "gistools.example.com",
+        "Staging": "gistools-staging.example.com",
+        "Development": "gistools-dev.example.com",
+        "key": "GIS Tools Portal"
+    },
+    "Enterprise Portal": {
+        "type": "url",
+        "description": "Enterprise Portal URL",
+        "Production": "enterprise.example.com",
+        "Staging": "enterprise-staging.example.com",
+        "Development": "enterprise-dev.example.com",
+        "key": "Enterprise Portal"
+    },
+    "ArcGIS Server Configuration": {
+        "type": "url",
+        "description": "ArcGIS Server Configuration",
+        "Production": "SERVER-PROD-01",
+        "Staging": "SERVER-STAGE-01",
+        "Development": "SERVER-DEV-01",
+        "key": "ArcGIS Server Configuration"
+    },
+    "Logging Endpoint": {
+        "type": "url",
+        "description": "Logging Endpoint",
+        "Production": "logging-prod.example.com",
+        "Staging": "logging-staging.example.com",
+        "Development": "logging-dev.example.com",
+        "key": "Logging Endpoint"
+    },
+    "API Endpoint": {
+        "type": "url",
+        "description": "Custom API Endpoint",
+        "Production": "api.example.com",
+        "Staging": "api-staging.example.com",
+        "Development": "api-dev.example.com",
+        "key": "API Endpoint"
+    },
+    "SampleWidget": {
+        "type": "widget",
+        "description": "Sample Widget",
+        "Production": "a1b2c3d4e5f6789012345678901234ab",
+        "Staging": "b2c3d4e5f67890123456789012345abc",
+        "Development": "c3d4e5f678901234567890123456abcd",
+        "key": "SampleWidget"
+    },
+    "Sample_Map": {
+        "type": "web map",
+        "description": "Sample Web Map",
+        "Production": "1234567890abcdef1234567890abcdef",
+        "Staging": "234567890abcdef1234567890abcdef1",
+        "Development": "34567890abcdef1234567890abcdef12",
+        "key": "Sample_Map"
+    },
+    "Company_Logo": {
+        "type": "image",
+        "description": "Company Logo Image",
+        "Production": "a9876543210fedcba9876543210fedcb",
+        "Staging": "9876543210fedcba9876543210fedcba",
+        "Development": "876543210fedcba9876543210fedcba9",
+        "key": "Company_Logo"
+    },
+    "Analytics_Dashboard": {
+        "type": "dashboard",
+        "description": "Analytics Dashboard",
+        "Production": "43210fedcba9876543210fedcba98765",
+        "Staging": "3210fedcba9876543210fedcba987654",
+        "Development": "210fedcba9876543210fedcba9876543",
+        "key": "Analytics_Dashboard"
+    },
+    "Custom_Basemap": {
+        "type": "map",
+        "description": "Custom Basemap",
+        "Production": "10fedcba9876543210fedcba98765432",
+        "Staging": "0fedcba9876543210fedcba987654321",
+        "Development": "fedcba9876543210fedcba9876543210",
+        "key": "Custom_Basemap"
+    }
+}
